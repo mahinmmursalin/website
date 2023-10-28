@@ -1,0 +1,16 @@
+<div id="personal">
+    <h1>Personal</h1>
+    <div class="blog-post">
+        <img src="path_to_blog_image.jpg" alt="Blog Image">
+        <p>Text accompanying the image, potentially a warning or description.</p>
+        <select>
+            <option>Select Blog Post</option>
+            <!-- Add options for each blog post -->
+        </select>
+        <!-- Display selected blog post content below -->
+        <div class="older-work">
+            <img src="path_to_older_work_image.jpg" alt="Older Work Image">
+            <!-- Older work description/content here -->
+        </div>
+    </div>
+</div>
